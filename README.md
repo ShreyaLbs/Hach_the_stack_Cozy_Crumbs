@@ -2,6 +2,8 @@
 
 # 🍰 COZY CRUMBS – Bakery & Café Website
 
+🌐 **Live Demo**: [https://sareenabs.github.io/Hach_the_stack_Cozy_Crumbs/](https://sareenabs.github.io/Hach_the_stack_Cozy_Crumbs/)
+
 ## 📌 Project Overview
 Cozy Crumbs is a beautifully designed Bakery & Café website created using HTML and CSS.  
 The website represents a cozy, warm, and aesthetic café environment with soft tones and elegant layout styling.
@@ -74,4 +76,5 @@ Year: 2026
 
 > “Mugs that hug, and crumbs that fall,
 > A warm delight for one and all.” ☕✨
+
 
