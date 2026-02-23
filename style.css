@@ -79,7 +79,8 @@ header nav img {
     font-weight: 200;
 }
 
-#menu {
+#menu{
+    background-color:rgb(228, 195, 200);
     padding: 50px;
     font-size: 25px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
